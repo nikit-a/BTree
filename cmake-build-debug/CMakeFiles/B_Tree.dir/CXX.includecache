@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nikitatkachenko/Desktop/B_Tree/main.cpp
+iostream
+-
+utility
+-
+vector
+-
+fstream
+-
+string
+-
+

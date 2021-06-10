@@ -1,0 +1,3 @@
+/Users/nikitatkachenko/Desktop/B_Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nikitatkachenko/Desktop/B_Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitatkachenko/Desktop/B_Tree/cmake-build-debug/CMakeFiles/B_Tree.dir
